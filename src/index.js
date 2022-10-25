@@ -1,1 +1,1 @@
-alert("Everything is working");
+import "./sass/main.scss";
